@@ -1,0 +1,46 @@
+{
+  "name": "your-pdf-tools",
+  "version": "1.0.0",
+  "description": "Your PDF Tools help you to convert your pdf to images or text or both. Super usefull package to play with your pdf.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/roy-radhakanta/your-pdf-tools.git"
+  },
+  "keywords": [
+    "pdf",
+    "to",
+    "image",
+    "pdf",
+    "to",
+    "text",
+    "pdf",
+    "tools",
+    "pdf",
+    "tool",
+    "pdf",
+    "image",
+    "pdf",
+    "page",
+    "image",
+    "pdf",
+    "text",
+    "pdf",
+    "page",
+    "text",
+    "tools",
+    "tool",
+    "pdf",
+    "text",
+    "image"
+  ],
+  "author": "Radhakanta Roy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roy-radhakanta/your-pdf-tools/issues"
+  },
+  "homepage": "https://github.com/roy-radhakanta/your-pdf-tools#readme"
+}
