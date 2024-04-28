@@ -1,4 +1,5 @@
 const PDFToImg = require("./lib/pdfToImg");
+const PDFToText = require("./lib/pdfToText");
 
 
-module.exports = {PDFToImg}
+module.exports = {PDFToImg, PDFToText}
