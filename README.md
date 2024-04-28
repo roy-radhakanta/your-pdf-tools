@@ -88,4 +88,7 @@ async function name(){
 
 ### 
 
-### Thanks
+### Thank you
+I have used these libraries --
+1. [Tesseract.js](https://github.com/naptha/tesseract.js)
+2.  [pdftoimage](https://www.npmjs.com/package/pdftoimage)
