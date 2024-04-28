@@ -42,5 +42,9 @@
   "bugs": {
     "url": "https://github.com/roy-radhakanta/your-pdf-tools/issues"
   },
-  "homepage": "https://github.com/roy-radhakanta/your-pdf-tools#readme"
+  "homepage": "https://github.com/roy-radhakanta/your-pdf-tools#readme",
+  "dependencies": {
+    "pdftoimage": "^1.0.0",
+    "tesseract.js": "^5.0.5"
+  }
 }
