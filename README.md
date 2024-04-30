@@ -13,6 +13,8 @@ Follow these steps to install
 npm i your-pdf-tools
 ```
 
+✋🏻🛑 Please make sure your system has [Poppler](https://poppler.freedesktop.org/) installed
+
 ### Usage
 ##### PDF to image
 ```nodejs
@@ -81,6 +83,13 @@ async function name(){
     error: any;
 }
 ```
+
+if you have **outputdirectory** defined your will get pages of the pdf like- 
+
+if your pdf name is your_pdf.pdf you will get 
+1.  your_pdf-1.png, 
+2.  your_pdf-2.png ...
+as image(s)
 
 
 ### Supported Language
