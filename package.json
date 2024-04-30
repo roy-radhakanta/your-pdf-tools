@@ -1,6 +1,6 @@
 {
   "name": "your-pdf-tools",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Your PDF Tools help you to convert your pdf to images or text or both. Super usefull package to play with your pdf.",
   "main": "index.js",
   "scripts": {
